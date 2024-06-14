@@ -1,0 +1,43 @@
+1. Definition of Prompt Engineering:
+   What is prompt engineering?
+   Deliberate design and formulation of prompts to guide AI model behavior.
+
+2. Importance of Prompt Engineering:
+   Why is prompt engineering important in AI and NLP?
+   Enables control, customization, bias mitigation, and ethical outcomes in AI models.
+
+3. Components of a Prompt:
+   What are the essential components of a well-crafted prompt?
+   Clear instruction, relevant context, and necessary constraints or formatting instructions.
+
+4. Types of Prompts:
+   Describe different types of prompts.
+   Open-ended, instructional, and constraint-based prompts with varying impacts on AI model response.
+
+5. Prompt Tuning:
+   What is prompt tuning and how does it differ from traditional fine-tuning?
+   Iterative refinement of prompts for desired model behavior, distinct from adjusting model parameters.
+
+6. Role of Context in Prompts:
+   Explain the role of context in designing effective prompts.
+   Context guides model understanding and influences its response to input.
+
+7. Ethical Considerations in Prompt Engineering:
+   What ethical issues should be considered in prompt engineering?
+   Mitigating biases, ensuring fairness, avoiding harmful outputs, and promoting responsible AI use.
+
+8. Evaluation of Prompts:
+   How can the effectiveness of a prompt be evaluated?
+   Metrics such as relevance, coherence, diversity, and user satisfaction inform prompt performance.
+
+9. Challenges in Prompt Engineering:
+   What are common challenges in prompt engineering?
+   Balancing specificity and flexibility, avoiding biases, addressing ambiguity, and managing human effort.
+
+10. Case Studies of Prompt Engineering:
+    Provide an example of successful prompt engineering in a real-world scenario.
+    Chatbot development with accurate responses, enhancing customer support experiences.
+
+11. Future Trends in Prompt Engineering:
+    What are emerging trends in prompt engineering?
+    Automated prompt generation, reinforcement learning for optimization, user preference incorporation, and contextual prompts.
